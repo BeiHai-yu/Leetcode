@@ -1,0 +1,21 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "leetcode刷题笔记",
+  "main": "数据操作.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeiHai-yu/Leetcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeiHai-yu/Leetcode/issues"
+  },
+  "homepage": "https://github.com/BeiHai-yu/Leetcode#readme"
+}
